@@ -1,0 +1,95 @@
+{
+    "appetizers" : [
+        {
+            "name" : "Panda Express",
+            "date" : "4/22/2024",
+            "location" : "237 Melbourne Ave",
+            "food" : 9,
+            "service" : 9,
+            "pricing" : 10,
+            "price" : 8,
+            "description" : "I recently tried the egg rolls at Panda Express, and wow, they were something else! The outer layer was so perfectly crispy, not at all greasy, just how you'd want an egg roll to be. Inside, it was packed with flavor - the veggies were fresh, and the seasoning was spot on. It's not just another item on the menu; it's like a little bite of heaven. I must say, Panda Express really knows their stuff when it comes to making a mean egg roll. Definitely recommend giving them a try if you haven't yet!",
+            "URL" : "./images/app-2.webp"
+        }, 
+        {
+            "name" : "Culver's",
+            "date" : "7/12/2018",
+            "location" : "532 Welch Ave",
+            "food" : 7,
+            "service" : 8,
+            "pricing" : 8,
+            "price" : 7,
+            "description" : "Just tried the chili cheese fries at Culver's for the first time, and oh my, were they amazing! The fries were crispy on the outside, soft on the inside, and that chili on top was rich and hearty. But the cheese, melted all over, tied everything together in such a delicious way. It was a perfect mix of spicy, cheesy, and crispy in every bite. If you're into comfort food with a kick, this is a dish you've got to try. Culver's really knocked it out of the park with this one!",
+            "URL" : "./images/app-3.webp"
+        },
+        {
+            "name" : "Thai Pai",
+            "date" : "4/12/2022",
+            "location" : "131 Brew Ave",
+            "food" : 8,
+            "service" : 5,
+            "pricing" : 9,
+            "price" : 4,
+            "description" : "I finally got around to trying the cream cheese rangoons and wow, they completely blew me away! The outer shell was delightfully crisp, giving way to a lusciously creamy center that was both rich and comforting. What really set it apart was the delicate balance of flavors – the cream cheese was neither too overwhelming nor too subtle, with a gentle sweetness that complemented the crunchy exterior beautifully. It's a dish that effortlessly elevates a simple appetizer into an unforgettable treat. Definitely something you don't want to miss out on!",
+            "URL" : "./images/app-4.jpg"
+        },
+        {
+            "name" : "Buffalo Wild Wings",
+            "date" : "3/2/2022",
+            "location" : "423 Shelby Ave",
+            "food" : 9,
+            "service" : 9,
+            "pricing" : 6,
+            "price" : 12,
+            "description" : "Buffalo Wild Wings really sets the bar high for chicken wings. Their wings are incredibly flavorful, with a wide variety of sauces that cater to all taste preferences, from mild to blazing hot. The wings themselves are cooked to perfection, offering that desirable crispy skin with tender meat inside. It's not just about the food; the vibrant atmosphere makes every visit a fun experience. Whether you're there for a game day or a casual meet-up with friends, their wings are a must-try. The combination of great flavors, perfect texture, and a lively setting makes Buffalo Wild Wings a top choice for wing lovers.",
+            "URL" : "./images/app-1.jpeg"
+        }
+    ],
+
+    "entrees" : [
+        {
+            "name" : "Macubana",
+            "date" : "4/22/2024",
+            "location" : "112 Ash Ave",
+            "food" : 8,
+            "service" : 8,
+            "pricing" : 8,
+            "price" : 13,
+            "description" : "Just had the mac and cheese at Macubanna, and it's absolutely divine! The pasta is cooked perfectly, and the blend of cheeses they use is spot on – creamy, rich, and oh-so-gooey. There's a wonderful crunch from the breadcrumb topping that adds the perfect texture contrast. It's comfort food at its best, elevated to a whole new level. Definitely a dish that stands out for its heartwarming flavors and homely vibe. A must-try for any mac and cheese enthusiast out there!",
+            "URL" : "./images/entree-1.jpg"
+        }, 
+        {
+            "name" : "KFC",
+            "date" : "2/12/2023",
+            "location" : "223 Sheldon Ave",
+            "food" : 10,
+            "service" : 8,
+            "pricing" : 10,
+            "price" : 11,
+            "description" : "Tried the chicken burger at KFC today, and it was a total delight! The crispy chicken patty nestled between soft buns, with just the right amount of mayo and fresh pickle, made for a truly satisfying bite. The chicken was juicy and flavorful, with that signature KFC crunch that I always crave. The combination of flavors and textures was just perfect, leaving me wanting more with every bite. It's the kind of burger that hits the spot every time and leaves you feeling completely satisfied. If you're a fan of chicken burgers, this one from KFC is definitely worth a try!",
+            "URL" : "./images/entree-2.jpg"
+        },
+        {
+            "name" : "Olive Garden",
+            "date" : "7/21/2019",
+            "location" : "343 Gold Ave",
+            "food" : 8,
+            "service" : 9,
+            "pricing" : 6,
+            "price" : 17,
+            "description" : "Just indulged in the Chicken Alfredo at Olive Garden, and it was an absolute treat! The creamy alfredo sauce perfectly coated the tender pieces of grilled chicken, and the pasta was cooked to perfection. Each bite was bursting with flavor, from the savory chicken to the rich and velvety sauce. The dish was garnished with freshly grated Parmesan cheese, adding a delightful sharpness to the overall taste.",
+            "URL" : "./images/entree-3.jpg"
+        },
+        {
+            "name" : "Old Chicago",
+            "date" : "1/14/2022",
+            "location" : "253 Bourne Ave",
+            "food" : 10,
+            "service" : 8,
+            "pricing" : 7,
+            "price" : 15,
+            "description" : "Having just savored the Cheese Lasagna at Old Chicago, I must say, it exceeded all my expectations! Each layer of pasta was generously filled with a creamy ricotta cheese mixture, perfectly seasoned and complemented by a robust marinara sauce. Topped with gooey melted mozzarella cheese, every forkful was a delightful combination of flavors and textures.",
+            "URL" : "./images/entree-4.avif"
+        }
+    ]
+}

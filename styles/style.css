@@ -1,0 +1,201 @@
+/*
+*   Zach Lightly
+*   Kush Pamnani
+*   zachl@iastate.edu
+*   kushp@iastate.edu
+*   March 9 2024
+*/
+
+body {
+    min-width: 540px;
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar ul {
+    display: flex;
+    justify-content: center;
+
+    border: 3px;
+    border-radius: 10px;
+    border-style:solid;
+    border-color:#5f1916;
+    padding: 1em;
+    margin: 1em;
+    background-color: #a14340;
+    box-shadow: 0 0 10px #5f1916;
+
+    list-style: none;
+}
+
+#nav-bar li a {
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    letter-spacing: 0.075em;
+}
+
+#nav-bar li {
+    margin: 0 1.5em;
+}
+
+
+#nav-bar li a:hover {
+    color:#5f1916;
+    cursor:pointer;
+    font-weight: bold;
+    letter-spacing: 0px;
+    border-color: #5f1916;
+}
+
+footer {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*Add page*/
+
+#user-input {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#5f1916;
+    text-align: center;
+    font-size: larger;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px  black;
+    margin:auto auto 30px auto;
+    width:70vw;
+}
+
+#user-image {
+    margin: 10px 15vw;
+    border: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #5f1916;
+    
+    box-shadow: 0 0 5px inset #5f1916;
+}
+
+#img-btn {
+    padding: 16px;
+    margin: 6em;
+    border-style: none;
+    background-color: #5f1916;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+#img-btn:hover{
+    background-color: #a14340;
+    cursor:pointer;
+}
+
+#user-input img {
+    width: 100%;
+    padding: 0px;
+}
+
+.txt-form p{
+    margin: 1em 15vw;
+    text-align: left;
+}
+
+.txt-form input {
+    width : 40vw;
+    height: 25px;
+    border-radius: 5px;
+    border: 0px;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 0 0 5px inset black;
+}
+
+.number input {
+    width : 10vw;
+    height: 25px;
+    border-radius: 5px;
+    border: 0px
+}
+
+.rest-price-input {
+    margin-left: 60px;
+    width : 10vw;
+}
+
+.desc-form {
+    margin: 1em 15vw;
+    text-align: left;
+}
+
+.desc-form textarea {
+    width : 40vw;
+    height: 200px;
+    border-radius: 5px;
+    border: 0px;
+    font-size: larger;
+    box-shadow: 0 0 5px inset black;
+}
+
+#submit-button {
+    height: 3em;
+    border-radius: 15px;
+    border: 0px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #5f1916;
+    color: #ffffff;
+    width: 200px;
+    margin-bottom: 40px;
+}
+
+#submit-button:hover{
+    background-color: #a14340;
+    cursor:pointer;
+}
+
+/* CODE FOR ABOUT PAGE*/
+#about {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#ffe137;
+    text-align: center;
+    font-size: larger;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px  black;
+    margin:auto auto 30px auto;
+    width:70vw;
+    padding: 20px;
+}
+
+#isulogo {
+    width:45%;
+}
+
+.student {
+    border: 1px solid #5f1916;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: flex;
+    color:#a14340;
+    flex-wrap: wrap;
+    box-shadow:inset 0 0 5px #5f1916;
+    width: 60vw;
+}
+
+.student img {
+    width:40%;
+    margin:1em;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px #ffe137;
+}
+
+.student-text {
+    width:50%;
+}
+
+.student-desc {
+    font-size: medium;
+}
